@@ -72,7 +72,7 @@ int main()
         cout<<"2.View Tasks"<<"\n";
         cout<<"3.Mark Task as completed"<<"\n";
         cout<<"4.Remove Task"<<"\n";
-        cout<<"4. Exit"<<"\n";
+        cout<<"5. Exit"<<"\n";
 
         int choice;
         cout<<"Enter your choice: ";
