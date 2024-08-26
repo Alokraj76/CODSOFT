@@ -6,7 +6,7 @@ class Calculator
     public:
     void calculation()
     {
-        double a,b,result;
+        double a,b,result,alok;
         int op;
         
         cout<<"Enter two number a and b: ";
